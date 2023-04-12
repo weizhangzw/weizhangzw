@@ -1,5 +1,5 @@
 - 👋 Hi, I’m WEI ZHANG
-- 👀 I use Java, Python and Go
+- 👀 I use Java, Node.js, Python and Go
 - 💞️ I’m looking for a full-time SDE entry level job.
 - 📫 My email is godzw1998@gmail.com
 
